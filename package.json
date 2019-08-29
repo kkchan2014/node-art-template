@@ -1,6 +1,6 @@
 {
   "name": "node-art-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node art-template extensions",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
 	},
   "dependencies": {
     "extend": "latest",
+    "express-art-template": "latest",
     "art-template": "latest"
   }
 }
